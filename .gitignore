@@ -1,0 +1,8 @@
+# Ignore IDE specific files/directories
+.idea/
+
+# Ignore Node/NPM specific files/directories
+node_modules/
+
+# Ignore compiled files/directories
+dist/
